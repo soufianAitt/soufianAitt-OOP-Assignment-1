@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cItCbmBYq2k=",
+  "success": true,
+  "projectFilePath": "/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/Part2_HotelReservationSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/soufiane/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

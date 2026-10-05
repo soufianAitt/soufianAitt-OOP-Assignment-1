@@ -1,0 +1,14 @@
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/bin/Debug/net10.0/Part2_HotelReservationSystem
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/bin/Debug/net10.0/Part2_HotelReservationSystem.deps.json
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/bin/Debug/net10.0/Part2_HotelReservationSystem.runtimeconfig.json
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/bin/Debug/net10.0/Part2_HotelReservationSystem.dll
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/bin/Debug/net10.0/Part2_HotelReservationSystem.pdb
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/Part2_HotelReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/Part2_HotelReservationSystem.AssemblyInfoInputs.cache
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/Part2_HotelReservationSystem.AssemblyInfo.cs
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/Part2_HotelReservationSystem.csproj.CoreCompileInputs.cache
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/Part2_HotelReservationSystem.dll
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/refint/Part2_HotelReservationSystem.dll
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/Part2_HotelReservationSystem.pdb
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/Part2_HotelReservationSystem.genruntimeconfig.cache
+/home/soufiane/Downloads/assignment18ta/repo/Part2_HotelReservationSystem/src/obj/Debug/net10.0/ref/Part2_HotelReservationSystem.dll
